@@ -1,3 +1,3 @@
 # 30 Days of Code
-## - Day01 : 
+### - Day01 : 
 > Learn how to Print
