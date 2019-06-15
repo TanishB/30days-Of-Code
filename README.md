@@ -1,3 +1,7 @@
 # 30 Days of Code
-### - Day01 : 
+### - Day00 : 
 > Learn how to Print
+### - Day01:
+> Learn about Data Types : int | float | string
+### - Day02:
+> Learn basic operators
