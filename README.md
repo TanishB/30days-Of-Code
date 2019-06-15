@@ -15,3 +15,5 @@
 > Iterating over string with the help of loops
 ### - Day07:
 > Here comes the array
+### - Day08:
+> Dictionaries & Maps
