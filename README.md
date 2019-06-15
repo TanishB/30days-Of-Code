@@ -7,3 +7,5 @@
 > Learn basic operators
 ### - Day03:
 > Learn about conditional statements : if | else | elif
+### - Day04:
+> Intro to class !
