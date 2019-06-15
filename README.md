@@ -11,3 +11,5 @@
 > Intro to class !
 ### - Day05:
 > Iterate with loops
+#### - Day06:
+> Iterating over string with the help of loops
