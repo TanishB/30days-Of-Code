@@ -9,3 +9,5 @@
 > Learn about conditional statements : if | else | elif
 ### - Day04:
 > Intro to class !
+### - Day05:
+> Iterate with loops
