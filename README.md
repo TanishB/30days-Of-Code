@@ -5,3 +5,5 @@
 > Learn about Data Types : int | float | string
 ### - Day02:
 > Learn basic operators
+### - Day03:
+> Learn about conditional statements : if | else | elif
