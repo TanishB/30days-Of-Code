@@ -11,5 +11,7 @@
 > Intro to class !
 ### - Day05:
 > Iterate with loops
-#### - Day06:
+### - Day06:
 > Iterating over string with the help of loops
+### - Day07:
+> Here comes the array
