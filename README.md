@@ -19,3 +19,5 @@
 > Dictionaries & Maps
 ### - Day09:
 > Simply Recursive
+### - Day10:
+> Welcome Number System
