@@ -23,3 +23,5 @@
 > Welcome Number System
 ### - Day11:
 > Just an increase in Array Dimension
+### - Day12:
+> Delving into INHERITANCE
