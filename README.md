@@ -25,3 +25,5 @@
 > Just an increase in Array Dimension
 ### - Day12:
 > Delving into INHERITANCE
+### - Day13:
+> Abstract classes, one step deep into inheritance
