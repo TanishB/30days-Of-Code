@@ -43,3 +43,5 @@
 > Simple Sorting . . .Bubble Sorting!
 ### - Day21:
 > Generics : Templates[C++]
+### - Day22:
+> Trees . . .Binary Search Trees -.-
