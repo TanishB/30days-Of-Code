@@ -37,3 +37,5 @@
 > It's about how to raise an exception : raise
 ### - Day18:
 > Stacks & Queues
+### - Day19:
+> Interfaces :(
