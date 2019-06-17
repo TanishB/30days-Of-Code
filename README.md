@@ -40,4 +40,4 @@
 ### - Day19:
 > Interfaces :(
 ### - Day20:
-> Simple Sorting! Bubble Sorting!
+> Simple Sorting . . .Bubble Sorting!
