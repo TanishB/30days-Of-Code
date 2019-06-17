@@ -27,3 +27,5 @@
 > Delving into INHERITANCE
 ### - Day13:
 > Abstract classes, one step deep into inheritance
+### - Day14:
+> Scope : local & global
