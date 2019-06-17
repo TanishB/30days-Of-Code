@@ -35,3 +35,5 @@
 > Exception Handling : try | except | else | finally
 ### - Day17:
 > It's about how to raise an exception : raise
+### - Day18:
+> Stacks & Queues
