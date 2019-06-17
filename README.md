@@ -29,3 +29,5 @@
 > Abstract classes, one step deep into inheritance
 ### - Day14:
 > Scope : local & global
+### - Day15:
+> Linked List :)
