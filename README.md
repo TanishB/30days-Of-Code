@@ -33,3 +33,5 @@
 > Linked List :)
 ### - Day16:
 > Exception Handling : try | except | else | finally
+### - Day16:
+> It's about how to raise an exception : raise
