@@ -31,3 +31,5 @@
 > Scope : local & global
 ### - Day15:
 > Linked List :)
+### - Day16:
+> Exception Handling : try | except | else | finally
