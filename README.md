@@ -45,5 +45,7 @@
 > Generics : Templates[C++]
 ### - Day22:
 > Trees . . .Binary Search Trees -.-
-### - Day22:
+### - Day23:
 > BST Level Order Traversal : Level-wise Traversal
+### - Day24:
+> Delving deep into LinkedLists
