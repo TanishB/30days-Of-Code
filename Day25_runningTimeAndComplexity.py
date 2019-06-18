@@ -25,7 +25,7 @@ for n in array:
         print('Not prime')
 
 '''
-UnOptimised Solution:
+UnOptimised Solution:-
 
 num = int(input())
 array = []
