@@ -53,3 +53,5 @@
 > Intro to Compexity
 ### - Day26:
 > Nested logic: nested if-else ladder
+### - Day27:
+> Testing : UnitTests | IntegrationTests | EndToEndTests
