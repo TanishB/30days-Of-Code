@@ -57,3 +57,5 @@
 > Testing : UnitTests | IntegrationTests | EndToEndTests
 ### - Day28:
 > Regular Expressions | import re
+### - Day29:
+> Bitwise Operations : AND | OR | XOR | Negation | ShiftLeft | ShiftRight
